@@ -24,8 +24,8 @@ public class ColorChart {
 		}
 
 
-		//	246色チャート（16進数版）
-		System.out.println("\n6 COLOR CHART");
+		//	256色チャート（16進数版）
+		System.out.println("\n256 COLOR CHART");
 		for (int i = 0; i < 16; i++) {
 			for (int j = 0; j < 16; j++) {
 				int v = i*16+j;
